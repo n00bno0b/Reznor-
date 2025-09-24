@@ -14,7 +14,7 @@ class EmulatorComponentTest {
     @Test
     fun allComponents_areInitializedCorrectly() {
         val components = EmulatorComponents.ALL_COMPONENTS
-        assertEquals(7, components.size)
+        assertEquals(8, components.size)
         
         // Verify all components have required data
         components.forEach { component ->

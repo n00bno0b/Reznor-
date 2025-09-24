@@ -1,0 +1,6 @@
+[submodule "emulator_repos/RetroArch"]
+	path = emulator_repos/RetroArch
+	url = https://github.com/libretro/RetroArch.git
+[submodule "RetroArch"]
+	path = RetroArch
+	url = https://github.com/libretro/RetroArch.git
