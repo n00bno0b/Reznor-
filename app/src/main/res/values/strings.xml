@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Reznor Emulation Manager</string>
+    <string name="emulation_library">Emulation Library</string>
+    <string name="emulator_ps1">PlayStation 1 (DuckStation)</string>
+    <string name="emulator_psp">PlayStation Portable (PPSSPP)</string>
+    <string name="emulator_gamecube_wii">GameCube/Wii (Dolphin)</string>
+    <string name="emulator_ps2">PlayStation 2 (Play!)</string>
+    <string name="emulator_switch">Nintendo Switch (suyu)</string>
+    <string name="emulator_pc">PC Games (GameNative)</string>
+    <string name="emulator_retroarch">RetroArch (Lemuroid)</string>
+    
+    <string name="size_estimate">Est. Size: %s</string>
+    <string name="status_not_installed">Not Installed</string>
+    <string name="status_installed">Installed</string>
+    <string name="status_downloading">Downloading</string>
+    
+    <string name="install">Install</string>
+    <string name="launch">Launch</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="settings">Settings</string>
+    
+    <string name="description_ps1">Fast and accurate PS1 emulation</string>
+    <string name="description_psp">Gold standard PSP emulator</string>
+    <string name="description_gamecube_wii">GameCube and Wii emulation with Vulkan/OpenGL ES</string>
+    <string name="description_ps2">Lighter PS2 titles support</string>
+    <string name="description_switch">Nintendo Switch emulation</string>
+    <string name="description_pc">PC and Steam titles with Wine/Box64</string>
+    <string name="description_retroarch">Multi-system emulator library</string>
+</resources>
